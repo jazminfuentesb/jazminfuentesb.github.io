@@ -205,6 +205,16 @@ h1 {
   width:415px;
   height: 245px;
 }
+
+.proyecto1:hover img {
+  opacity: 0.2;
+  background-color: #a4fff7 ;
+}
+
+.proyecto1:hover .overlay {
+  opacity: 1;
+}
+
 .proyecto:hover img {
   opacity: 0.2;
   background-color: #a4fff7 ;
